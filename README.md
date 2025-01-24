@@ -17,7 +17,7 @@ To build and run mbr-loader, you need to have Rust installed. You can install Ru
 
 1. Clone the repository:
 ```sh
-    git clone https://github.com/Hqnnqh/mbr-loader.git
+    git clone https://github.com/hannahfluch/mbr-loader.git
     cd mbr-loader
 ```
 
